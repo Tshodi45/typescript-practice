@@ -1,6 +1,18 @@
 # User API Assessment
+# 
 
 ## Project Setup
+
+#make sure that you install of the independencies to your application
+-npm install typescript ts-node express sequelize mysql2 dotenv
+-npm install --save-dev @types/node @types/express @types/sequelize eslint prettier eslint-config-prettier eslint-plugin-prettier
+
+AND for Testing
+
+#make sure you also install all of the indipendencies
+-npm install --save-dev jest @types/jest ts-jest
+
+
 
 1. Clone the repository:
    ```bash
